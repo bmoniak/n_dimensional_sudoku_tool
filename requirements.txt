@@ -1,0 +1,7 @@
+python 3.10.9 and above
+minizinc 0.9.0 and above
+numpy 1.25.0 and above
+
+# PIP commands:
+pip install minizinc
+pip install numpy
